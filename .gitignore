@@ -1,0 +1,41 @@
+<<<<<<< HEAD
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+.vscode
+.vs
+=======
+#folders
+
+.vs/
+.idea/
+.vscode/
+Binaries/
+Intermediate/
+DerivedDataCache/
+Saved/
+Content/StartContent/
+ThirdParty/
+Build/
+
+#files
+
+*.vscode
+*.sln
+*.xcodeproj
+>>>>>>> 5bfec6f (work 4)
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+<<<<<<< HEAD
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+=======
+*.suo
+*.xcworkspace
+
+>>>>>>> 5bfec6f (work 4)

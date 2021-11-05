@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{14014F73-4D55-F399-5455-23935171C453}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "work1",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
